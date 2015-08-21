@@ -21,6 +21,7 @@ build
 - Webpack
 - Path
 - Lodash' object assign
+- Babel-Loader
 - Html-Webpack-Plugin
 - Compression-Webpack-Plugin
 - Stats-Webpack-Plugin
